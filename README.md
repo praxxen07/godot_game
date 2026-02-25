@@ -1,4 +1,4 @@
-# Godot Pong - "Gong"
+# Godot Game -
 
 **Version:** 0.5
 
